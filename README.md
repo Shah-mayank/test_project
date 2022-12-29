@@ -1,5 +1,4 @@
-# test_project
-test_project
+# Gym Management
 
 ## Introduction
 Creating a sample git repository
